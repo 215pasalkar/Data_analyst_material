@@ -1,2 +1,1 @@
-# data_analyst_material
-all required study material
+# Data_analyst_material
